@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dhimankamal
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning React Js
-- 💞️ I’m looking for Internship 
+- 💞️ I’m looking for Internship in React Js
 - 📫 How to reach me https://www.linkedin.com/in/kamaldhimaan/
 
 <!---
