@@ -4,7 +4,10 @@ Hi 👋 My name is Kamal
 Frontend Developer
 ------------------
 
-Now I am Learning React js . Working on ellocentlabs as a Frontend developer.
+Currently, I work at Ellocent Labs as a frontend developer.
+I have done my graduation in Computer Science .
+Now I have 9 months of experience in Web development. 
+Additionally, I'm working on HTML, CSS, React Js, Svelte Js, Next Js, and Javascript .
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [kamal@dhimaan.in](mailto:kamal@dhimaan.in)
