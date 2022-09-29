@@ -6,7 +6,7 @@ Frontend Developer
 
 Currently, I work at Ellocent Labs as a frontend developer.
 I have done my graduation in Computer Science .
-Now I have 9 months of experience in Web development
+Now I have 3 years of experience in Web development
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [kamal@dhimaan.in](mailto:kamal@dhimaan.in)
