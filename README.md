@@ -9,7 +9,7 @@ I have done my graduation in Computer Science .
 Now I have 3 years of experience in Web development
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [kamal@dhimaan.in](mailto:kamal@dhimaan.in)
+* ✉️  You can contact me at [contact@itskamal.dev](mailto:contact@itskamal.dev)
 * 🚀  I'm currently working on [Ringtonez](http://www.ringtonez.in/)
 * 🧠  I'm learning GraphQl
 * 🤝  I'm open to collaborating on FrontEnd React Js Project
