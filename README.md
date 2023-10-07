@@ -52,3 +52,5 @@ Now I have 3 years of experience in Web development
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/dhimankamal/ringtonez-nextjs" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dhimankamal&repo=ringtonez-nextjs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+[![An image of @dhimankamal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhimankamal)](https://holopin.io/@dhimankamal)
