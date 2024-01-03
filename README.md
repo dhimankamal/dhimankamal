@@ -1,18 +1,19 @@
 Hi 👋 My name is Kamal
 ======================
 
-Frontend Developer
+Full Stack Developer
 ------------------
 
-Currently working as a freelancer..
-I have done my graduation in Computer Science .
-Now I have 4 years of experience in Web development
+
+As a Full Stack SvelteKit specialist with a robust background of over two years, I specialize in developing growth-driven web applications.
+
+I have 4 years of experience in Web development
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [contact@itskamal.dev](mailto:contact@itskamal.dev)
-* 🚀  I'm currently working on [Ringtonez](http://www.ringtonez.in/)
-* 🧠  I'm learning GraphQl
-* 🤝  I'm open to collaborating on FrontEnd React Js Project
+* 🚀  I'm currently working on CMS Project
+* 🧠  I'm eagerly trying new things. 
+* 🤝  I'm open to collaboration
 
 ### Skills
 
@@ -35,7 +36,7 @@ Now I have 4 years of experience in Web development
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/dhimankamal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://kamaldhiman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/kamal__dhimaan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kamaldhimaan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/kamal_dhiman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/dhimankamal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.itskamal.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/itskamaldev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kamaldhimaan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://twitter.com/itskamaldev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
