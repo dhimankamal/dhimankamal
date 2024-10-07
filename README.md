@@ -5,7 +5,7 @@ Full Stack Developer
 ------------------
 
 
-As a Full Stack SvelteKit specialist with a robust background of over two years, I specialize in developing growth-driven web applications.
+As a Full Stack SvelteKit specialist with a robust background of over five years, I specialize in developing growth-driven web applications.
 
 I have 4 years of experience in Web development
 
