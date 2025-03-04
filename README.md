@@ -7,7 +7,7 @@ Full Stack Developer
 
 As a Full Stack SvelteKit specialist with a robust background of over five years, I specialize in developing growth-driven web applications.
 
-I have 4 years of experience in Web development
+I have 5 years of experience in Web development
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [contact@itskamal.dev](mailto:contact@itskamal.dev)
